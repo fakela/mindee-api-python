@@ -1,3 +1,6 @@
+![Test Status](https://github.com/mindee/mindee-api-python/actions/workflows/test.yml/badge.svg)
+[![Pypi](https://img.shields.io/pypi/v/mindee)](https://pypi.org/project/mindee/)
+
 # Receipt, passport and invoice OCR python helper for Mindee API
 
 The full documentation is available [here](https://developers.mindee.com/docs/getting-started)
